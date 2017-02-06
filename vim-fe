@@ -1,3 +1,4 @@
+" fork from https://github.com/jaywcjlove/vim-web
 " 定义快捷键的前缀，即 <Leader>
 let mapleader=";"
 
